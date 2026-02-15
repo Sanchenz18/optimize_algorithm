@@ -1,0 +1,5 @@
+# Folder
+.venv
+
+# File
+uv.lock
